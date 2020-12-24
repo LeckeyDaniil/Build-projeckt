@@ -1,0 +1,37 @@
+.stroi__title{
+    padding-bottom: 21px;
+    padding-top: 78.28px;
+    justify-content: center;
+    text-align: center;
+}
+.stroi__text{
+    
+    justify-content: center;
+    text-align: center;
+    width: 827px;
+    height: 96px;
+    margin: auto;
+}
+.stroi__text__1{
+    
+    padding-top: 95px;
+    font-family: Inter;
+    font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 24px;
+    padding-bottom: 19px ;
+    height: 24px;
+    width: 452px;
+}
+.stroi__text__2{
+    color: #72787D;
+    padding-right: 91px;
+    font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+    height: 96;
+width: 500px;}
+   

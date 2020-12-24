@@ -1,0 +1,24 @@
+.optimishion__title{
+    padding-top: 131px;
+    padding-bottom: 19px;
+    font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 24px
+}
+.optimishion__img{
+    padding-top: 64px;
+}
+.optimishion__title,
+.optimishion__text{
+    padding-left: 101px ;
+}
+.optimishion__text{
+    font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 24px;
+   color: #72787D ;
+}

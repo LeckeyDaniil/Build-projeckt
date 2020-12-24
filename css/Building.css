@@ -1,0 +1,15 @@
+.build_title{
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 16px;
+}
+.build_p{
+    margin: auto;
+    width: 827px;
+    height: 96px;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 44px ;
+    color: #72787D;
+}

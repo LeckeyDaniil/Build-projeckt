@@ -1,0 +1,25 @@
+.given__title{
+    padding-top: 119px;
+    width: 550px;
+height: 24px;
+padding-bottom: 19px;
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 24px;
+}
+.given__text{
+    width: 500px;
+height: 120px;  
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+color: #72787D;
+
+}
+.given__img{
+    padding-top: 64px;
+}
